@@ -1,2 +1,2 @@
 # Java
-Array of completed Java projects created in high school, since 2021.
+Java projects completed in high school since 2021.
